@@ -11,3 +11,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original-wordmark.svg" alt="linkedin perfil" width="70" height="70">
 
 </a>
+## Habilidades:
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascripticone" width="70" height="70">
