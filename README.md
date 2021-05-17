@@ -14,4 +14,4 @@
 
 ## Habilidades:
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascripticone" width="50" height="50">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascripticone" width="40" height="40">
