@@ -15,3 +15,5 @@
 ## Habilidades:
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascripticone" width="40" height="40">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="cssincone" width="40" height="40">
