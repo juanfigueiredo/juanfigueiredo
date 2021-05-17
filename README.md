@@ -2,7 +2,7 @@
 
 
 ## Sobre mim:
--Eu vivo em Rio de Janeiro :brazil:<br>
+-Eu vivo no Rio de Janeiro :brazil:<br>
 -Sou estudante de Ciências da Computação e Técnico em Eletrônica :computer:<br>
 
 ## Contato:
