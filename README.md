@@ -9,9 +9,18 @@
 ### Contato/Contact:
 <a href="https://www.linkedin.com/in/juandefranca/">
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original-wordmark.svg" alt="linkedin perfil" width="70" height="70">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin perfil" width="40" height="40">
 
 </a>
+
+<div>
+<a href="mailto:juan.defranca@hotmail.com">
+   
+<img src="https://image.flaticon.com/icons/png/512/906/906312.png" alt="outlookicon" width="45" height="45">
+   
+   
+   </a>
+  </div>
 
 ### Habilidades/Skills:
 
