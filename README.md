@@ -25,3 +25,6 @@
 ### Habilidades/Skills:
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascripticone" width="40" height="40"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="cssincone" width="50" height="50"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain-wordmark.svg" alt="htmlicone" width="50" height="50">
+
+
+![Juan Status](https://github-readme-stats.vercel.app/api?username=juanfigueiredo&show_icons=true)
