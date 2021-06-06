@@ -21,7 +21,14 @@
    
    </a>
   </div>
+  
+  <a href="https://www.youtube.com/channel/UC01WBGz98ENUinryBF-7t6A">
+   
+   <img src="https://image.flaticon.com/icons/png/512/1384/1384060.png" alt="youtube_icon" width="40" height="40">
+                                                                             
+  </a>
 
+                                                                             
 ### Habilidades/Skills:
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascripticone" width="40" height="40"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="cssincone" width="50" height="50"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain-wordmark.svg" alt="htmlicone" width="50" height="50">
