@@ -3,7 +3,7 @@
 
 ### Sobre mim /About me:
 -Eu vivo no Rio de Janeiro/ I live in Rio de Janeiro. :brazil:<br>
--Sou estudante de Ciências da Computação e Técnico em Eletrônica/ I'm a Computer Science student and Electronics Technician. :computer:<br>
+-Sou estudante de programação e Técnico em Eletrônica/ I'm a programming student and Electronics Technician. :computer:<br>
 -Eu falo inglês em nível intermediário/ I speak english intermidiate level. :us:
 
 ### Contato/Contact:
